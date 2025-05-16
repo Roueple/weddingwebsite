@@ -1,9 +1,9 @@
 /**
-* Template Name: Laura
-* Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
+* Template Name: Gege
+* Template URL: https://Gege.com/Gege-free-creative-bootstrap-theme/
 * Updated: Aug 07 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Author: Gege.com
+* License: https://Gege.com/license/
 */
 
 (function() {
